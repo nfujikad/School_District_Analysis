@@ -38,4 +38,10 @@ Scores by school type
  - This was unchanged
 
 ## Summary
+The four changes to the analysis are
+1. number of total students
+2. number of students counted at Thomas High School
+3. average math and reading scores
+4. overall percentages for math and reading at Thomas High School. 
+
 With respect to the large data set, the ninth grade class at Thomas High School is not large enough to significantly skew the analysis. 
