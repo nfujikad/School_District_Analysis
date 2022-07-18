@@ -21,16 +21,19 @@ Here we see the new per school summary (top schools)
 ![Per School Summary New](https://github.com/nfujikad/School_District_Analysis/blob/main/Resources/THS_new_per_school_summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    -Thomas High School still scored second best in math and reading compared to the other schools.
+    - Thomas High School still scored second best in math and reading compared to the other schools.
 
 How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade
 - The only score affected by this change is the ninth grade score for Thomas High School. All other grades for corresponding school are unaffected since the data shows the scores per grade per school. 
+
 Scores by school spending
 - This was unchanged 
+
 Scores by school size
 - This was unchanged
+
 Scores by school type
  - This was unchanged
 
